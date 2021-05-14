@@ -1,4 +1,5 @@
 # MiBlog
 Esta es la actividad de cierre
 
-Alfonso de Jesus Cordero De la Lama
+Este era un blog acerca de Las noticias ma recinetes que 
+estan pasando a travs del mundo.
